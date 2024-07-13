@@ -1,0 +1,6 @@
+flask
+celery
+redis
+docker
+pytest
+pytest-flask
